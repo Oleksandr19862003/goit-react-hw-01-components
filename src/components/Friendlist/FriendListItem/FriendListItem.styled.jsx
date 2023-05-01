@@ -38,7 +38,7 @@ export const Online = styled.div`
     background-color: var(--online);
     border-radius: 50%;
     opacity: 0.7;
-    animation: ${blink} 1200ms linear infinite;
+    
   }
 `;
 

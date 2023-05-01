@@ -10,7 +10,7 @@ body {
     'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
   /* -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; */
-  background-color: #fcfcfa;
+  background-color: #fcfcfc;
 }
 
 p,
@@ -36,7 +36,7 @@ code {
   --primary: #282828;
   --secondary: #858585;
   --bg: rgba(167, 139, 139, 0.089);
-  --main-shadow: -3px -3px 6px #dbcdcd, 2px 2px 6px rgba(53, 2, 2, 0.1);
+  --main-shadow: -5px -5px 6px #dbcdcd, 3px 3px 6px rgba(53, 2, 2, 0.1);
   --inset-shadow: inset -2px -2px 5px #f7f7f6, inset 3px 3px 5px rgba(0, 0, 0, 0.1);
   --online: green;
   --offline: #d64848;
