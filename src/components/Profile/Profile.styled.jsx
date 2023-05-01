@@ -45,7 +45,7 @@ export const Tag = styled.p`
 
 export const Location = styled.p`
   font-size: 18px;
-  text-shadow: var(--main-shadow);
+  
 `;
 
 export const StatsList = styled.ul`
